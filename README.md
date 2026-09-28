@@ -26,7 +26,6 @@ Simular um pequeno piano, que permita tocar notas musicais tanto clicando nas te
 - [ ] Adicionar suporte para dispositivos móveis.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-bmfolio.web.app-F77737?logo=google-chrome)](https://bmfolio.web.app/?utm_source=github&utm_medium=repo_piano-com-javascript) 
 [![GitHub](https://img.shields.io/badge/GitHub-brunomoraesf-181717?logo=github)](https://github.com/brunomoraesf) 
